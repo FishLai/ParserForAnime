@@ -5,6 +5,11 @@
 # Created by: PyQt5 UI code generator 5.9.2
 #
 # WARNING! All changes made in this file will be lost!
+'''
+Btn, Button; 
+Re, refresh; dl, download; Vlist, video list;
+'''
+
 
 from PyQt5 import QtCore, QtGui, QtWidgets
 
