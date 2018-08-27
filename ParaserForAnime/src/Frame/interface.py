@@ -73,7 +73,6 @@ class Ui_Form(object):
         self.Btn_Vlist.setText(_translate("Form", "PutInVedioList"))
         self.label.setText(_translate("Form", "Newest Anime"))
 
-
 if __name__ == "__main__":
     import sys
     app = QtWidgets.QApplication(sys.argv)
