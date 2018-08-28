@@ -26,9 +26,5 @@ if __name__ == '__main__':
     app = QApplication(sys.argv)
     form = MainForm()
     form.show()
-<<<<<<< Upstream, based on origin/master
     sys.exit(app.exec_())
-    
-=======
-    sys.exit(app.exec_())
->>>>>>> 8048399 the same change in other mechanism
+
