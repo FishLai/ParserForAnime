@@ -1,7 +1,8 @@
 '''
 Created on 2018年8月27日
 
-@author: quan_
+@author: FishLai
+m_t, model of table;
 '''
 from PyQt5 import QtCore, QtGui, QtWidgets
 from PyQt5.QtWidgets import QMainWindow, QApplication
